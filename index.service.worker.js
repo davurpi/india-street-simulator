@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1782643228|5626587';
+const CACHE_VERSION = '1782645184|4708877';
 /** @type {string} */
 const CACHE_PREFIX = 'India Street Sim-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
